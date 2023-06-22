@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^$ /ГЛАВНАЯ/glavnaya.html [L]
